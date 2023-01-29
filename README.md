@@ -1,9 +1,6 @@
 ### Hi there 👋
 ---
 
-![Ong_Zhen_Yu](https://user-images.githubusercontent.com/32679064/202915828-91c50a09-0dec-4caa-87e8-511245a48c0d.gif)
-
-
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=RedPandaFM)
 
 
